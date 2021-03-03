@@ -111,3 +111,5 @@ RestComm jEIR is licensed under dual license policy. The default license is the 
 Acknowledgements
 ========
 [See who has been contributing to RestComm](http://www.telestax.com/opensource/acknowledgments/)
+
+![footer image](images/image.jpg)
