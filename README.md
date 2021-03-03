@@ -112,4 +112,4 @@ Acknowledgements
 ========
 [See who has been contributing to RestComm](http://www.telestax.com/opensource/acknowledgments/)
 
-![footer image](docs/image.jpg)
+![footer image](docs/Zabbix.png)
